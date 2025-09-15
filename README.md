@@ -51,15 +51,16 @@
 <br>
 <br>
 <div align="center">
+  
+### Contact Developer
 
-### Contact developer 
-  <a href="https://github.com/maxim-klenov" target="_blank">
+  
+  <a href="https://github.com/maxim-klenov" target="_blank" rel="noopener noreferrer">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  
-  <a href="https://t.me/tgxzz" target="_blank">
-    <img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-  </a> 
-  </div>
+  <a href="mailto:maxklenow@gmail.com" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" alt="gmail" />
+  </a>
+</div>
 
 
